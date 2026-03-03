@@ -3,7 +3,7 @@ title: "Skin-resident innate lymphoid cells converge on a pathogenic effector st
 collection: publications
 category: other_manuscripts
 permalink: https://www.nature.com/articles/s41586-021-03188-w
-excerpt: 'This paper is about blah and is a work I did during my PhD, collaborating with Piotr in Flavell lab.'
+excerpt: 'Excerpt to come'
 date: 2021-02-02
 venue: 'Nature'
 paperurl: 'https://www.nature.com/articles/s41586-021-03188-w'
