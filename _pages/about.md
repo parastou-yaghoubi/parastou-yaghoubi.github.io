@@ -7,6 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-This is my first commit, so for now section to be written
 
 ====== 
