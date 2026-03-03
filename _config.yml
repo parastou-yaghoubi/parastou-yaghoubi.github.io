@@ -23,7 +23,7 @@ repository               : "parastou-yaghoubi/parastou-yaghoubi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"placeholder_photo.jpeg"
+  avatar           : "placeholder_photo.jpeg"
   name             : "Parastou Yaghoubi"
   pronouns         : # example: "she/her"  
   bio              : "Bologist"
